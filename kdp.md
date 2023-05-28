@@ -39,5 +39,5 @@ MingHai Zheng is a writer based in Wuhan, China, who focuses on writing articles
 17. Strategic planning
 18. Performance management
 19. Personal development
-20. Workplace productivity.
+20. Workplace productivity
 
