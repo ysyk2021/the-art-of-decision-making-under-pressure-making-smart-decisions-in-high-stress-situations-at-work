@@ -1,5 +1,3 @@
-Collaborating Effectively with Colleagues and Stakeholders
-================================================================================================================================
 
 Collaborating effectively with colleagues and stakeholders is critical to making smart decisions in high-stress situations. In this chapter, we will explore strategies for communicating and collaborating effectively in high-stress situations.
 

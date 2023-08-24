@@ -1,5 +1,3 @@
-Generating and Evaluating Options for Action
-===============================================================================================
 
 Developing a decision-making framework is critical to making smart decisions in high-stress situations. In this chapter, we will explore strategies for generating and evaluating options for action.
 

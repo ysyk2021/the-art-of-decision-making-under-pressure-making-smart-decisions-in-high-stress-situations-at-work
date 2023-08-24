@@ -1,5 +1,3 @@
-Navigating Changes and Challenges in the Workplace
-=============================================================================================================
 
 Sustaining effective decision-making over time is critical to success in the workplace. In this chapter, we will explore strategies for navigating changes and challenges in the workplace and sustaining effective decision-making over time.
 

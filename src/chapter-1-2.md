@@ -1,5 +1,3 @@
-Historical Perspectives on Decision-Making Theory and Practice
-=========================================================================================================================
 
 Decision-making under pressure has evolved over time with the development of decision-making theory and practice. In this chapter, we will explore historical perspectives on decision-making and how it has influenced today's approach to decision-making under pressure.
 

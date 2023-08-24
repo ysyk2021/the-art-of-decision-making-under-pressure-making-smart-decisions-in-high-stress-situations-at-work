@@ -1,5 +1,3 @@
-Continuously Evaluating and Adjusting Decision-Making Strategies
-===========================================================================================================================
 
 Continuously evaluating and adjusting decision-making strategies is critical to sustaining effective decision-making over time. In this chapter, we will explore strategies for continuously evaluating and adjusting decision-making strategies.
 

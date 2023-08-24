@@ -1,5 +1,3 @@
-Approaching Risk with a Clear Understanding of Potential Consequences
-=================================================================================================================
 
 Navigating uncertainty and risk is an essential part of decision-making under pressure. In this chapter, we will explore strategies for approaching risk with a clear understanding of potential consequences.
 

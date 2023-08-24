@@ -1,5 +1,3 @@
-Conducting Regular Evaluations and Feedback Sessions
-======================================================================================================================
 
 Conducting regular evaluations and feedback sessions is critical to evaluating the efficacy of decision-making strategies. In this chapter, we will explore key strategies for conducting effective evaluations and feedback sessions that inspire and motivate decision-makers.
 

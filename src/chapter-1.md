@@ -1,5 +1,3 @@
-Chapter 1: Introduction to Decision-Making Under Pressure
-=========================================================
 
 Making decisions under pressure is a critical skill for leaders in the workplace. In this chapter, we will explore the definition of decision-making under pressure and its importance in the workplace, historical perspectives on decision-making theory and practice, and the challenges and opportunities of making smart decisions in high-stress situations.
 

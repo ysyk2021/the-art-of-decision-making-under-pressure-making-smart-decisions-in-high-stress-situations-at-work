@@ -1,5 +1,3 @@
-Defining Decision-Making Under Pressure and Its Importance in the Workplace
-======================================================================================================================================
 
 Decision-making under pressure is a critical skill for leaders in today's fast-paced and high-stress work environment. In this chapter, we will define decision-making under pressure and explore its importance in the workplace.
 

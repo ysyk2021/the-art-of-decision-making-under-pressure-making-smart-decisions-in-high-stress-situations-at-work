@@ -1,5 +1,3 @@
-Chapter 2: Understanding the Psychology of Decision-Making Under Pressure
-=========================================================================
 
 Understanding the psychology of decision-making under pressure is critical to making smart decisions in high-stress situations. In this chapter, we will explore strategies for recognizing the impact of stress on decision-making, identifying common biases and heuristics in decision-making, and understanding the role of emotions in decision-making.
 

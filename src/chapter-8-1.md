@@ -1,5 +1,3 @@
-Maintaining Motivation and Engagement in Decision-Making Processes
-=============================================================================================================================
 
 Maintaining motivation and engagement is critical to sustaining effective decision-making over time. In this chapter, we will explore strategies for maintaining motivation and engagement in decision-making processes.
 

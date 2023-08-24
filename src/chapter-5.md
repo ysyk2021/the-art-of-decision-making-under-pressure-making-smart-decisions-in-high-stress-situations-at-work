@@ -1,5 +1,3 @@
-Chapter 5: Communicating and Collaborating in High-Stress Situations
-====================================================================
 
 Effective communication and collaboration are critical to making smart decisions in high-stress situations. In this chapter, we will explore strategies for maintaining open communication channels during high-stress situations, collaborating effectively with colleagues and stakeholders, and fostering a culture of trust and mutual support.
 

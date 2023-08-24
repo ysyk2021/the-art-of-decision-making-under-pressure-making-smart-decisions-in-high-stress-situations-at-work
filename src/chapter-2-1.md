@@ -1,5 +1,3 @@
-Recognizing the Impact of Stress on Decision-Making
-==============================================================================================================================
 
 Recognizing the impact of stress on decision-making is crucial to making smart decisions under pressure. In this chapter, we will explore key strategies for understanding the psychology of decision-making under pressure and how stress can impact decision-making.
 

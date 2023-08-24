@@ -1,5 +1,3 @@
-Understanding the Role of Emotions in Decision-Making
-================================================================================================================================
 
 Understanding the role of emotions in decision-making is crucial to making smart decisions under pressure. In this chapter, we will explore key strategies for understanding the psychology of decision-making under pressure and how emotions can impact decision-making.
 

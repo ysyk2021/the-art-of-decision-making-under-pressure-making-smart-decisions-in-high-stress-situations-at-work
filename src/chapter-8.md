@@ -1,5 +1,3 @@
-Chapter 8: Sustaining Effective Decision-Making Over Time
-=========================================================
 
 Sustaining effective decision-making over time requires continuous effort and adjustment. In this chapter, we will explore strategies for maintaining motivation and engagement in decision-making processes, navigating changes and challenges in the workplace, and continuously evaluating and adjusting decision-making strategies.
 

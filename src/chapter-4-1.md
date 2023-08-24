@@ -1,5 +1,3 @@
-Understanding the Nature of Uncertainty and Risk in Decision-Making
-===============================================================================================================
 
 Navigating uncertainty and risk is an essential component of making smart decisions in high-stress situations. In this chapter, we will explore strategies for understanding the nature of uncertainty and risk in decision-making.
 

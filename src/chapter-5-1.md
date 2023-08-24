@@ -1,5 +1,3 @@
-Maintaining Open Communication Channels during High-Stress Situations
-===========================================================================================================================================
 
 Maintaining open communication channels during high-stress situations is critical to effective decision-making. In this chapter, we will explore strategies for maintaining open communication channels in high-stress situations.
 

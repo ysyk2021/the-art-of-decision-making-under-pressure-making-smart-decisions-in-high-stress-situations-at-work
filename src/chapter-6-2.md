@@ -1,5 +1,3 @@
-Evaluating and Adjusting Decision-Making Strategies over Time
-=================================================================================================================
 
 Implementing decision-making strategies is essential to making smart decisions in high-stress situations. In this chapter, we will explore strategies for evaluating and adjusting decision-making strategies over time.
 

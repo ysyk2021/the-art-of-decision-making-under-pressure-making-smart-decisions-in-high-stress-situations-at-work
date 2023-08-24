@@ -1,5 +1,3 @@
-Chapter 6: Implementing Decision-Making Strategies
-==================================================
 
 Implementing decision-making strategies is critical to making smart decisions in high-stress situations. In this chapter, we will explore strategies for developing decision-making protocols and guidelines, evaluating and adjusting decision-making strategies over time, and scaling decision-making practices across teams and organizations.
 

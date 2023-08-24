@@ -1,5 +1,3 @@
-Fostering a Culture of Trust and Mutual Support
-=====================================================================================================================
 
 Communicating and collaborating effectively is critical to making smart decisions in high-stress situations. In this chapter, we will explore strategies for fostering a culture of trust and mutual support that enables effective communication and collaboration.
 

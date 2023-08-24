@@ -1,5 +1,3 @@
-Setting Metrics and Benchmarks for Successful Decision-Making
-===============================================================================================================================
 
 Setting metrics and benchmarks for successful decision-making is critical to evaluating the efficacy of decision-making strategies. In this chapter, we will explore key strategies for setting metrics and benchmarks that inspire and motivate decision-makers.
 

@@ -1,5 +1,3 @@
-Chapter 7: Evaluating the Efficacy of Decision-Making Strategies
-================================================================
 
 Evaluating the efficacy of decision-making strategies is essential for continuous improvement and driving better outcomes in high-stress situations. In this chapter, we will explore strategies for setting metrics and benchmarks for successful decision-making, conducting regular evaluations and feedback sessions, and making data-driven decisions about decision-making strategies.
 

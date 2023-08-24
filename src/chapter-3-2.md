@@ -1,5 +1,3 @@
-Gathering and Analyzing Relevant Information
-===============================================================================================
 
 Gathering and analyzing relevant information is critical to developing a decision-making framework that supports smart decision-making under pressure. In this chapter, we will explore key strategies for gathering and analyzing relevant information that inspires and motivates decision-makers.
 

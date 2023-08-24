@@ -1,5 +1,3 @@
-Identifying Common Biases and Heuristics in Decision-Making
-======================================================================================================================================
 
 Identifying common biases and heuristics in decision-making is crucial to making smart decisions under pressure. In this chapter, we will explore key strategies for understanding the psychology of decision-making under pressure and how biases and heuristics can impact decision-making.
 

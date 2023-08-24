@@ -1,4 +1,3 @@
-# Introduction
 
 Making decisions under pressure is a critical skill in today's fast-paced and high-stress work environment. Whether you are a business leader, project manager, or frontline worker, the ability to make smart decisions quickly and effectively can mean the difference between success and failure.
 

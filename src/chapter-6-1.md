@@ -1,5 +1,3 @@
-Developing Decision-Making Protocols and Guidelines
-=======================================================================================================
 
 Implementing decision-making strategies is essential to making smart decisions in high-stress situations. In this chapter, we will explore strategies for developing decision-making protocols and guidelines.
 

@@ -1,5 +1,3 @@
-Scaling Decision-Making Practices across Teams and Organizations
-====================================================================================================================
 
 Implementing decision-making strategies is essential to making smart decisions in high-stress situations. In this chapter, we will explore strategies for scaling decision-making practices across teams and organizations.
 

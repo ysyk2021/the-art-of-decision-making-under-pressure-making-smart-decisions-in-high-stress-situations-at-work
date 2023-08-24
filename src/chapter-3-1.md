@@ -1,5 +1,3 @@
-Establishing Decision-Making Criteria and Priorities
-=======================================================================================================
 
 Establishing decision-making criteria and priorities is crucial to developing a decision-making framework that supports smart decision-making under pressure. In this chapter, we will explore key strategies for developing a decision-making framework that inspires and motivates decision-makers.
 

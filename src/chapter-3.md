@@ -1,5 +1,3 @@
-Chapter 3: Developing a Decision-Making Framework
-=================================================
 
 Developing a decision-making framework is critical to making smart decisions in high-stress situations. In this chapter, we will explore strategies for establishing decision-making criteria and priorities, gathering and analyzing relevant information, and generating and evaluating options for action.
 

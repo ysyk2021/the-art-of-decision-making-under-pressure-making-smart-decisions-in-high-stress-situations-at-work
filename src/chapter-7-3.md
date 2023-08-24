@@ -1,5 +1,3 @@
-Making Data-Driven Decisions about Decision-Making Strategies
-===============================================================================================================================
 
 Evaluating the efficacy of decision-making strategies is critical to making informed decisions and driving better outcomes over time. In this chapter, we will explore strategies for making data-driven decisions about decision-making strategies.
 

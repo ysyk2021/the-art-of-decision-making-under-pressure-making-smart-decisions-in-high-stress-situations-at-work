@@ -1,5 +1,3 @@
-Chapter 4: Navigating Uncertainty and Risk
-==========================================
 
 Uncertainty and risk are inherent in decision-making under pressure. In this chapter, we will explore strategies for understanding the nature of uncertainty and risk in decision-making, approaching risk with a clear understanding of potential consequences, and managing uncertainty through scenario planning and contingency planning.
 

@@ -1,5 +1,3 @@
-Managing Uncertainty Through Scenario Planning and Contingency Planning
-===================================================================================================================
 
 Navigating uncertainty and risk is an essential part of decision-making under pressure. In this chapter, we will explore strategies for managing uncertainty through scenario planning and contingency planning.
 
