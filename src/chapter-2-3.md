@@ -1,5 +1,4 @@
-Chapter: Understanding the Role of Emotions in Decision-Making
-==============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------
